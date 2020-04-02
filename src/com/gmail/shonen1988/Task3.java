@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Task3 {
     /**
-     * Найти минимальное нечетное число в списке
+     * ArrayList: Найти минимальное нечетное число в списке
      */
     public static void main(String[] args) {
         List<Integer>listOne = new ArrayList<>();

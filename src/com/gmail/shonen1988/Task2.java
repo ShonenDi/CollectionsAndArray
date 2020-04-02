@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Task2 {
     /**
-     * Развернуть коллекцию в обратную сторону
+     * ArrayList:Развернуть коллекцию в обратную сторону
      */
 
 
@@ -31,6 +31,7 @@ public class Task2 {
         print(listRevers(listOne));
         System.out.println();
         print(listRevers(listTwo));
+        System.out.println(listOne.toString());
     }
     public static void print (List<Integer> list){
         for(Integer i:list){
